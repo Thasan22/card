@@ -1,0 +1,102 @@
+#qt1{
+    background-image: url(./img1.jpg);
+    background-color: rgba(75, 201, 240, 0.459);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #888;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    width: 500px;
+    display: inline-block;
+    padding: 40px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+#qt2{
+    background-image: url(./img2.jpg);
+    background-color: rgba(15, 1, 212, 0.459);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #888;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    width: 450px;
+    display: inline-block;
+    padding: 40px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+#qt3{
+    background-image: url(./img3.jpg);
+    background-color: rgba(0, 0, 0, 0.459);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #888;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    width: 400px;
+    display: inline-block;
+    padding: 40px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+#qt4{
+    background-image: linear-gradient(to right,red,blue);
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #888;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+    padding: 40px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+#qt5{
+    background: linear-gradient(to right, #00f260, #0575e6);
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #888;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    width: 550px;
+    height: 250px;
+    display: inline-block;
+    padding: 40px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+.qt h1{
+    color: white;
+}
+.qt a{
+    color: white;
+    text-decoration: none;
+}
+.qt{
+    background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6)
+}
+#heading{
+    margin: 20px;
+    font-family: 'Lobster', cursive;
+}
